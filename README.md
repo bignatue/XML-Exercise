@@ -1,7 +1,5 @@
 # XML Exercise
 
---
-
 Create a XML document which contains:
 
 1. At least two elements under root. And each of them has some children.
