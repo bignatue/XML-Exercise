@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports>
+  <basketball conference="eastern">
+    <team>Milwaukee Bucks</team>
+    <win>60</win>
+    <lose>22</lose>
+    <gb>0</gb>
+    <players>
+      <forward>Giannis Antetokounmpo</forward>
+      <guard>Pat Connaughton</guard>
+    </players>
+  </basketball>
+  <basketball conference="eastern">
+    <team>Toronto Raptors</team>
+    <win>58</win>
+    <lose>24</lose>
+    <gb>2</gb>
+    <players>
+      <forward>Kawhi Leonard</forward>
+      <guard>Kyle Lowry</guard>
+    </players>
+  </basketball>
+  <basketball conference="western">
+    <team>Golden States Warriors</team>
+    <win>57</win>
+    <lose>25</lose>
+    <gb>0</gb>
+    <players>
+      <forward>Kevin Durant</forward>
+      <guard>Stephen Curry</guard>
+    </players>
+  </basketball>
+  <basketball conference="western">
+    <team>Denver Nuggets</team>
+    <win>54</win>
+    <lose>28</lose>
+    <gb>3</gb>
+    <players>
+      <forward>Torry Craig</forward>
+      <guard>Jamal Murray</guard>
+    </players>
+  </basketball>
+</sports>
